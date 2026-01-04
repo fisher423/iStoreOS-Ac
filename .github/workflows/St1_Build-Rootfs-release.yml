@@ -30,7 +30,7 @@ on:
         default: '192.168.5.1'
 
 env:
-  VERSION: 24.10.4
+  VERSION: 24.10.5
 
 jobs:
   build:
